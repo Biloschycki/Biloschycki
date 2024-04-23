@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Enzo Biloschycki 🤝
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Biloschycki's GitHub stats](https://github-readme-stats.vercel.app/api?username=biloschycki&hide=contribs,prs)
 
 
 
